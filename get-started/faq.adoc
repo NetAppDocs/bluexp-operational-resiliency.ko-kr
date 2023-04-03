@@ -1,0 +1,31 @@
+---
+sidebar: sidebar 
+permalink: get-started/faq.html 
+keywords: operational resiliency faq, risk remediation frequently asked questions 
+summary: 이 FAQ는 질문에 대한 간단한 답변을 찾는 경우에 도움이 될 수 있습니다. 
+---
+= 운영 복구 서비스에 대한 질문과 대답
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+이 FAQ는 질문에 대한 간단한 답변을 찾는 경우에 도움이 될 수 있습니다.
+
+
+
+== 운영 복구 서비스에 대한 액세스
+
+* BlueXP 운영 복구 URL은 무엇입니까? *
+
+URL의 경우 브라우저에 다음을 입력합니다. https://console.bluexp.netapp.com/[]
+
+
+
+== 라이센싱
+
+* 운영 복구 서비스를 사용하려면 라이센스가 필요합니까? *
+
+NetApp 라이센스 파일(NLF)은 필요하지 않습니다.

@@ -1,0 +1,14 @@
+---
+section: use
+title: 운영 복구 서비스 사용
+entries:
+- title: 보안 문제를 검토하고 해결합니다
+  url: "/use/remediate-overview.html"
+- title: 보안 문제를 검토합니다
+  url: "/use/remediate-review.html"
+- title: 문제를 자동으로 해결합니다
+  url: "/use/remediate-auto.html"
+- title: Ansible 플레이북을 사용하여 문제 해결
+  url: "/use/remediate-ansible.html"
+- title: 개선 상태를 확인합니다
+  url: "/use/remediate-status.html"

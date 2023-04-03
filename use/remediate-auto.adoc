@@ -1,0 +1,46 @@
+---
+sidebar: sidebar 
+permalink: use/remediate-auto.html 
+keywords: bluexp, operational resiliency, remediate, security risk remediation 
+summary: 보정 옵션을 선택한 경우 서비스를 통해 해결 방법을 구현할 수 있습니다. 
+---
+= 문제를 자동으로 해결합니다
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Remediate * 옵션을 선택한 경우 서비스를 통해 개선 작업을 구현할 수 있습니다.
+
+.단계
+. BlueXP 왼쪽 탐색 창에서 * 상태 * > * 운영 복구 * > * 위험 개선 * 을 선택합니다.
+. 위험 개선 페이지에서 영향 수준 열을 기준으로 정렬하여 가장 높은 위험을 먼저 확인합니다.
+. 위험을 선택하고 * 위험 개선 * 을 선택합니다.
+. 각 클러스터에 대해 * Remediate * 를 선택합니다.
++
+문제에 따라 지침이 나타납니다. BlueXP Connector가 있거나 클러스터를 알고 있는 경우 이 페이지의 일부 옵션이 나타나지 않습니다.
+
++
+** 커넥터가 없거나 아직 활성화되지 않은 경우 서비스에 커넥터 만들기 페이지가 표시됩니다. 여기에서 Connector를 만들 수 있습니다. Connector가 존재하지만 활성화되지 않은 경우 클라우드 공급자 서비스에서 활성화해야 합니다.
++
+에 대한 자세한 내용은 BlueXP 설명서를 참조하십시오 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["커넥터를 만드는 방법"].
+
+** 클러스터가 없는 경우 서비스를 통해 클러스터를 식별할 수 있는 페이지가 표시됩니다.
++
+에 대한 자세한 내용은 BlueXP 설명서를 참조하십시오 https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html["클러스터를 식별하는 방법"].
+
+
+
+. Connector를 구축하고 클러스터를 검색한 후 조정을 검토합니다.
++
+서비스가 수정 사항을 구현하도록 * Remediate * 옵션을 선택한 경우 Review and Execute Required Fix 페이지가 나타납니다.
+
+. 위험 및 기타 정보를 검토합니다.
+. Execute * 를 선택합니다.
++
+이 작업을 수행하면 Connector가 배포되고(아직 완료되지 않은 경우) 클러스터가 검색되고, 수정 사항이 다운로드되며, 선택한 클러스터에 대한 수정 사항이 자동으로 구현됩니다.
+
+. 개선 수정 상태를 보려면 개선 상태 페이지에 클러스터 이름을 기록합니다.
+
