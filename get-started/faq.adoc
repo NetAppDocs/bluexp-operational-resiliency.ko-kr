@@ -20,7 +20,7 @@ summary: 이 FAQ는 질문에 대한 간단한 답변을 찾는 경우에 도움
 
 * BlueXP 운영 복구 URL은 무엇입니까? *
 
-URL의 경우 브라우저에 다음을 입력합니다. https://console.bluexp.netapp.com/[]
+URL의 경우 브라우저에 다음을 입력합니다. https://console.bluexp.netapp.com/["https://console.bluexp.netapp.com/"^]
 
 
 

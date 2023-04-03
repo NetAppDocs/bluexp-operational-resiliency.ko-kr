@@ -18,9 +18,9 @@ summary: 사용자 환경, 네트워크 액세스, 로그인 및 웹 브라우�
 
 * 사용자 환경은 웹 브라우저에서 로그인 및 네트워크 액세스를 포함한 모든 BlueXP 요구 사항을 충족해야 합니다.
 +
-BlueXP를 참조하십시오 https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html["시작 체크리스트"].
+BlueXP를 참조하십시오 https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html["시작 체크리스트"^].
 
-* 이 서비스를 사용하려면 모든 클러스터가 디지털 자문업체(이전의 Active IQ 디지털 자문업체)에 의해 모니터링되어야 합니다. 을 참조하십시오 https://docs.netapp.com/us-en/active-iq/index.html["Digital Advisor 설명서"].
+* 이 서비스를 사용하려면 모든 클러스터가 디지털 자문업체(이전의 Active IQ 디지털 자문업체)에 의해 모니터링되어야 합니다. 을 참조하십시오 https://docs.netapp.com/us-en/active-iq/index.html["Digital Advisor 설명서"^].
 * 클러스터에 대한 액세스 자격 증명이 있어야 합니다.
 * 요구 사항은 아니지만 BlueXP 커넥터가 설치되어 있고 활성화되어 있고 ONTAP 시스템이 검색되면 도움이 됩니다. 그렇지 않은 경우, 운영 복구 서비스를 통해 이러한 프로세스를 안내받을 수 있습니다.
 
