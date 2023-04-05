@@ -53,14 +53,11 @@
   <block id="bfd3572da7deb352274b4218934dd2a5" category="paragraph">이 작업을 수행하면 문제가 자동으로 해결됩니다(* Execute*를 선택하여 문제 해결을 시작한 후). 를 계속 진행합니다 <block ref="155d1c925e456f5b01e8084a17198a9b" category="inline-link-macro-rx"></block>.</block>
   <block id="dba780c086871839e271397a91a1168f" category="inline-link-macro">Ansible 플레이북을 사용하여 위험 문제를 해결합니다</block>
   <block id="1a72f3179a2856e66237e05940c8b2c4" category="list-text">Ansible 플레이북을 사용하여 문제를 직접 해결하려면 * 다운로드 * 를 선택합니다. 를 계속 진행합니다 <block ref="2a3a4262efa2f3516dd5c7a1e58f2a52" category="inline-link-macro-rx"></block>.</block>
-  <block id="3d23dd2c04c9f13e9b274fad4db973ca" category="summary">NetApp BlueXP 운영 복원력 서비스는 AI를 사용하여 보안 위험을 결정합니다.</block>
   <block id="d829aa8182023eade7fc5b09a6e6db10" category="doc">보안 위험 문제를 검토하고 해결합니다</block>
-  <block id="fcd5b3eaba8e2d3ad1a6bd2e634c0fa8" category="paragraph">운영 복구 서비스를 사용하면 펌웨어 문제와 관련된 보안 위험을 검토하고 해결 방법을 구현할 수 있습니다.</block>
   <block id="1500b69b05c684f2bff6fef6c269da7e" category="paragraph">권장 사항은 시스템 또는 노드 레벨에서 제공됩니다.</block>
   <block id="ef332fe59155dbbe05afbc8237b6c2f0" category="paragraph">위험을 검토한 후 다음 두 가지 방법으로 이러한 위험을 해결할 수 있습니다.</block>
   <block id="c59d31dbfc067528382d67deadc6809e" category="list-text">서비스를 통해 문제 해결을 실행하여 문제를 해결하도록 합니다.</block>
   <block id="65b6ec319cba2b39d4b8f1261e5f65d2" category="list-text">구성 작업을 실행할 수 있는 오픈 소스 배포 시스템인 Ansible 플레이북을 다운로드하고 플레이북에 나와 있는 조치를 수행하십시오.</block>
-  <block id="4c9ea87870070d09e4bdab8c3f322d31" category="paragraph">운영 복구 서비스를 사용하면 다음과 같은 목표를 달성할 수 있습니다.</block>
   <block id="d3fac19c124804d1e84db71213df90a4" category="list-text"><block ref="d3fac19c124804d1e84db71213df90a4" category="inline-link-macro-rx"></block></block>
   <block id="509a2fbcd8e8c4f65019e011c9fc5135" category="inline-link-macro">자동으로 해결합니다</block>
   <block id="64910b3c333d96f1f4e6bd6ba9321283" category="list-text"><block ref="64910b3c333d96f1f4e6bd6ba9321283" category="inline-link-macro-rx"></block></block>
@@ -79,20 +76,14 @@
   <block id="c3ee5ddf91e65773d3e9d27f9e627350" category="inline-link">Ansible 설명서</block>
   <block id="7d6268b9dc6ee19857991d4f88f50bdf" category="paragraph">Ansible 플레이북을 사용하는 방법에 대한 자세한 내용은 을 참조하십시오<block ref="2f1345580118e2956f2276fe8e08e989" category="inline-link-rx"></block>.</block>
   <block id="30a894e91a8af680e08e44c220c86292" category="list-text">플레이북의 지침에 따릅니다.</block>
-  <block id="ee4f79267b9b721be99108c15cc25314" category="summary">운영 복원력 은 서비스 및 솔루션의 상태, 가동 시간, 성능을 유지하기 위해 경고 및 이벤트를 분석하는 데 도움이 되는 서비스 범주입니다. 운영 복원력의 위험 수정 서비스와 자동화된 IT 운영 개선 제안을 사용하면 가동 중단 또는 장애가 발생하기 전에 권장 해결 방안을 구현할 수 있습니다.</block>
   <block id="fd6bebcfb34c38b868e5a7e0dd8fde4e" category="doc">운영 복구 서비스</block>
-  <block id="d31c2f400069ae7ed5d8d417be7e408f" category="summary">사용자 환경, 네트워크 액세스, 로그인 및 웹 브라우저에 대한 지원을 확인하여 BlueXP 운영 복원성을 시작하십시오.</block>
   <block id="c08c16ebaae52a216a6bdc1f3d6a4f8c" category="doc">운영 복구 사전 요구 사항</block>
   <block id="84804abf3404a430e85ae3299587a6b0" category="paragraph">운영 환경, 로그인, 네트워크 액세스 및 웹 브라우저의 준비 상태를 확인하여 시작하십시오.</block>
-  <block id="9bd9926830b47ac6a79518657cd0c311" category="paragraph">운영 복구 서비스를 사용하려면 환경이 모든 요구 사항을 충족하는지 확인해야 합니다.</block>
   <block id="3bb4638459c9fa17eee7502169bd253e" category="list-text">사용자 환경은 웹 브라우저에서 로그인 및 네트워크 액세스를 포함한 모든 BlueXP 요구 사항을 충족해야 합니다.</block>
   <block id="5b13c2584f8e7be6ddae81fa76b103bc" category="inline-link">시작 체크리스트</block>
   <block id="ea7b2437ddd14dce6ba3f65494d634fd" category="inline-link">Digital Advisor 설명서</block>
   <block id="a3538d61b66c68f21178c789ab57dc45" category="list-text">클러스터에 대한 액세스 자격 증명이 있어야 합니다.</block>
-  <block id="a957b5f46307a4beeefa3727aab84ac1" category="list-text">요구 사항은 아니지만 BlueXP 커넥터가 설치되어 있고 활성화되어 있고 ONTAP 시스템이 검색되면 도움이 됩니다. 그렇지 않은 경우, 운영 복구 서비스를 통해 이러한 프로세스를 안내받을 수 있습니다.</block>
   <block id="8996677d91a175f8986c9fb086d0a019" category="summary">용량 또는 계층 콜드 데이터를 추가하는 대신, 지금은 아무런 조치도 필요하지 않으며, 30일, 60일 또는 90일 후에 다시 확인하도록 미리 알림을 설정할 수 있습니다.</block>
-  <block id="53b2a3888d74c6060ad749e8cd50f3cc" category="doc">운영 복구 서비스 설정</block>
-  <block id="eb1f1072afdeaf925ee8a49c27da36a6" category="paragraph">운영 복구 서비스를 사용하기 위한 첫 번째 단계는 사용자 환경의 모니터링 도구에서 데이터를 제공하는 것입니다.</block>
   <block id="aeef00e38ed51f22706d62c2a0ab5668" category="paragraph">서비스를 설정하려면 다음 단계를 수행해야 합니다.</block>
   <block id="b5b8e67d6a37d24ad73c89e4c7ac8c9e" category="inline-link-macro">필수 구성 요소</block>
   <block id="230a6470f3b56faa66817a00760e17ee" category="list-text">검토 <block ref="7009d9e779d272896f977d5e53a42299" category="inline-link-macro-rx"></block> 환경을 준비합니다</block>
@@ -100,29 +91,21 @@
   <block id="8b6359316fcd0e79bcc63e44fde4f177" category="list-text">필요에 따라 서비스를 사용하기 전에 BlueXP에서 클러스터를 검색합니다</block>
   <block id="ccaaa0b1fdb9afd84865d38039f74d41" category="section-title">BlueXP에서 커넥터를 만듭니다</block>
   <block id="12c974d821c2a657f06d04bb173ce05d" category="paragraph">BlueXP Connector에는 NetApp ONTAP 시스템에 대한 자격 증명이 포함되어 있으므로 운영 복구 서비스가 보안 위험을 알리고 문제 해결 작업을 실행할 수 있습니다.</block>
-  <block id="7035adff8b1382b7935ca5ea77976a02" category="paragraph">BlueXP에서 직접 커넥터를 생성하고 해당 커넥터를 운영 복구 서비스에 사용할 수 있습니다. 또는 클러스터를 살펴보는 프로세스를 시작하고 프로세스 도중에 Connector를 배포할 수 있습니다.</block>
   <block id="a5aa4a9277b83c0c529e9cebd0e88464" category="paragraph">서비스를 사용하기 전에 BlueXP에서 커넥터를 만들려면 에 설명된 BlueXP 설명서를 참조하십시오<block ref="3be6fdd970ee3d2f07a043a29363ec05" category="inline-link-rx"></block>.</block>
   <block id="8cb57f3692a9a95873b528375ca802ad" category="section-title">BlueXP에서 클러스터를 검색합니다</block>
   <block id="6ac16908cedf4f30facecaf3b473c7de" category="paragraph">설치 과정에서 BlueXP 내에서 클러스터 이름, IP, 사용자 이름 및 암호를 식별합니다.</block>
   <block id="77edd12846ceca08a63e1059865b1044" category="paragraph">자세한 내용은 에 설명된 BlueXP 설명서를 참조하십시오<block ref="20b708c671b065a2812094c911bf9a2e" category="inline-link-rx"></block>.</block>
-  <block id="08a1c8c8efa0dcbbd69a866487cb6095" category="summary">BlueXP의 서비스에 액세스하여 운영 복구 서비스를 시작하십시오.</block>
-  <block id="4bffe1140d12eeb81b9e080b0ff35d8d" category="doc">BlueXP의 운영 복구 서비스에 액세스합니다</block>
-  <block id="43df50f2400dc0718ce6b2d1c64e3a13" category="paragraph">NetApp BlueXP에 로그인하여 운영 복원력 서비스를 이용할 수 있습니다.</block>
   <block id="8e917942a77709dfd28c155f42a97553" category="inline-link">로그인에 대해 자세히 알아보십시오</block>
   <block id="5975f7e9036c78e6217b16f295f0ca75" category="inline-link">BlueXP 콘솔</block>
   <block id="36c53a7c1d567e72b555e7c672926fcc" category="list-text">웹 브라우저를 열고 로 이동합니다<block ref="c7cac890d256b6982a3b913952a758f2" category="inline-link-rx"></block>.</block>
   <block id="753e3c2055278365db83b605f29d4860" category="paragraph">NetApp BlueXP 로그인 페이지가 나타납니다.</block>
   <block id="ad84736d27b7f84414783598f4ffd0d9" category="list-text">BlueXP에 로그인합니다.</block>
   <block id="30a806d095989a4cd374d05f16b397d2" category="list-text">BlueXP 왼쪽 탐색 창에서 * 상태 * &gt; * 운영 복구 * 를 선택합니다.</block>
-  <block id="6b8ca4480e86b37ac8094418798793ad" category="summary">NetApp BlueXP 운영 복원력 서비스를 몇 가지 단계로 시작하십시오.</block>
-  <block id="050bdb33d21b55499cded08599e171f0" category="doc">운영 복구 서비스를 신속하게 시작할 수 있습니다</block>
-  <block id="ac0de9ac56255db14daf80267b0e4e5c" category="paragraph">NetApp BlueXP 운영 복구 서비스를 시작하는 데 필요한 단계에 대한 개요입니다. 각 단계의 링크를 클릭하면 자세한 내용을 제공하는 페이지로 이동합니다.</block>
   <block id="06c2cea18679d64399783748fa367bdd" category="inline-image-macro">1개</block>
   <block id="a2d56436fc6737079209e6c74380c5fb" category="paragraph-title"><block ref="58f667aaf05f87159670e12bd9bc076b" category="inline-image-macro-rx" type="image"></block> 사전 요구 사항을 검토합니다</block>
   <block id="d73fd850784e1d8dbda69ab3ca51e7cf" category="inline-link-macro">환경이 이러한 요구 사항을 충족하는지 확인합니다</block>
   <block id="ced4b743323450a7e7e56480339ef345" category="paragraph"><block ref="3ad9f09af84a8cf38e8d4dc8f0c46658" category="inline-link-macro-rx"></block>.</block>
   <block id="aada29daee1d64ed0fe907043855cb7e" category="inline-image-macro">2개</block>
-  <block id="fb8982c5d00e543224efa2ac70a820aa" category="paragraph-title"><block ref="54f425ce8d89f4ed6b8a546561af5d60" category="inline-image-macro-rx" type="image"></block> 운영 복구 서비스 설정</block>
   <block id="cc6726e02ea7bc25f1ed413652107bdb" category="inline-link-macro">서비스 설정 단계를 완료합니다</block>
   <block id="8945930be6c7ec09e7411ef60b953505" category="paragraph"><block ref="ee9c1a6028084ebc22aa7d8247808a40" category="inline-link-macro-rx"></block>.</block>
   <block id="ca8a2087e5557e317599344687a57391" category="inline-image-macro">세 가지</block>
@@ -133,27 +116,16 @@
   <block id="2917b1025bbb9c3686b91e471db99651" category="inline-link-macro">Ansible 플레이북을 사용하여 해결</block>
   <block id="daa30aaf6281023aee56e56db8ce96fb" category="list-text"><block ref="a7e3b23a1f3f74fcdbdc771d0ce3464a" category="inline-link-macro-rx"></block>.</block>
   <block id="88423fe6213085494239f6ce5cbf5e7d" category="list-text"><block ref="b26664155e4669de3894cf4ef5b3d8a0" category="inline-link-macro-rx"></block>.</block>
-  <block id="4bc36b94d13916f64255f9c6f54ad51e" category="doc">운영 복구 서비스에 대해 자세히 알아보십시오</block>
-  <block id="cdf4fac12fa59bdc6554cf531c298474" category="paragraph">위험 정기는 NetApp Digital Advisor(이전의 Active IQ) 지침에 따라 NetApp ONTAP 클러스터에 대한 수정 사항을 구현하는 BlueXP용 서비스입니다. 이 서비스는 펌웨어 및 소프트웨어 구성 문제와 같은 보안 취약점을 감지합니다.</block>
-  <block id="605e84eff6f220f2e648f18326caeb08" category="section-title">운영 복구 서비스 사용의 이점</block>
-  <block id="60232dbbfa24ad62739a39cde4e86d5b" category="paragraph">운영 복구 서비스는 다음과 같은 이점을 제공합니다.</block>
   <block id="62540663380c02ec00b1e7931e30617d" category="list-text">클러스터의 수정 절차를 자동화합니다</block>
   <block id="51bbd775f32eafc27c0054ece81c6916" category="list-text">대시보드의 요약 보기에 각 위험 개선 상태가 표시됩니다</block>
   <block id="3a9852c45e2e43edbcefa9f74bf72fbb" category="list-text">수행된 여러 가지 작업을 추적할 수 있는 로그입니다</block>
-  <block id="24ec8b62b98d08eefe3e1005befd6c32" category="section-title">운영 복구 서비스로 수행할 수 있는 작업</block>
-  <block id="fbc467aaaef72571b69362ffd793b980" category="paragraph">운영 복구 서비스를 사용하면 다음과 같은 목표를 달성할 수 있습니다.</block>
   <block id="e602de70104e7a6058d5ee89495ff842" category="list-text">자동화된 워크플로우를 사용하면 스토리지 환경에 영향을 미치는 위험을 감지하고 이를 완화하는 조치를 취할 수 있습니다.</block>
   <block id="f7551fc8ea0fd358f71f9e67b147781f" category="list-text">보안 취약점과 관련된 문제와 같은 운영 권장 사항을 검토하고 그에 따라 조치합니다.</block>
   <block id="20b4f77bd00b4f63a49ec8e08f3bf6a6" category="section-title">비용</block>
   <block id="18720152dc5c7d0c9fdd39d12dc9d74b" category="paragraph">NetApp은 서비스 사용에 대한 비용을 부과하지 않습니다.</block>
   <block id="eb1f65bb1b774d1bd2f00607a58f102c" category="section-title">지원합니다</block>
-  <block id="429885a62ce0c77395b945842226a4cc" category="paragraph">운영 복원력 서비스는 사내 NetApp ONTAP 클러스터를 분석합니다.</block>
   <block id="b1151aae9531d2f5e85d085e8878cea6" category="summary">이 FAQ는 질문에 대한 간단한 답변을 찾는 경우에 도움이 될 수 있습니다.</block>
-  <block id="0e47e65f6f1da96b296d1bb3be658363" category="doc">운영 복구 서비스에 대한 질문과 대답</block>
-  <block id="424543a58732f42fd5482c0f9a373994" category="section-title">운영 복구 서비스에 대한 액세스</block>
-  <block id="3d30fb9c1a3cbc7318effaf7886fd510" category="paragraph">* BlueXP 운영 복구 URL은 무엇입니까? *</block>
   <block id="0b9c6eef4e3d3a222eb04e910d252339" category="section-title">라이센싱</block>
-  <block id="7cb38122a2ccc3592b97f5655d3c4080" category="paragraph">* 운영 복구 서비스를 사용하려면 라이센스가 필요합니까? *</block>
   <block id="5f2ba40ecab933bbf8f2c6806901fc08" category="paragraph">NetApp 라이센스 파일(NLF)은 필요하지 않습니다.</block>
   <block id="c9df4195a305212ffd7b56d24f67129d" category="summary">NetApp은 다양한 방법으로 BlueXP를 지원합니다. 기술 자료(KB) 기사 및 커뮤니티 포럼과 같은 광범위한 무료 셀프 지원 옵션이 24x7 제공됩니다. 지원 등록에는 웹 티켓팅을 통한 원격 기술 지원이 포함됩니다.</block>
   <block id="fabfc25ef8996fd90836e58a4c0b26b6" category="doc">도움을 받으십시오</block>
@@ -311,11 +283,8 @@
   <block id="1c0e45ef07d0dbc13ca2394d5e285fd7" category="paragraph">NetApp Support 사이트 계정이 있으면 BlueXP로 이동하여 나중에 등록하기 위해 이 NSS 계정을 추가할 수 있습니다.</block>
   <block id="84fa68bdcea2ad5e54b20ac851705b19" category="summary">알려진 제한 사항은 이 서비스 릴리스에서 지원하지 않거나 올바르게 상호 운용되지 않는 플랫폼, 장치 또는 기능을 식별합니다.</block>
   <block id="e646e16bee8b32e6ea29e30d01970a6c" category="doc">제한 사항</block>
-  <block id="d13b251ada2cfb6aeec1f3c123d852e8" category="summary">운영 복구 서비스의 새로운 기능에 대해 알아보십시오.</block>
   <block id="490414e0366b091220802d406e52c076" category="doc">새로운 기능</block>
   <block id="88c49608e723add593f5becc8bd9a968" category="section-title">2023년 4월 2일</block>
-  <block id="1630a937eacb69072b241ed94c9fd786" category="paragraph">새로운 운영 복구 서비스 및 자동화된 IT 운영 위험 개선 제안을 사용하면 가동 중단 또는 장애가 발생하기 전에 권장되는 해결 방법을 구현할 수 있습니다.</block>
-  <block id="ccdc113a6d04ad73b22b032c1ebd7c63" category="paragraph">운영 복원력 은 서비스 및 솔루션의 상태, 가동 시간, 성능을 유지하기 위해 경고 및 이벤트를 분석하는 데 도움이 되는 서비스 범주입니다.</block>
   <block id="7e0c2cf881384db7bfcfb883b67871a5" category="inline-link-macro">이 새로운 서비스에 대해 자세히 알아보십시오</block>
   <block id="111e68f453d93697e376aa4b128f9a4c" category="paragraph"><block ref="ab8039366481dc33ac47cc2a37c277c6" category="inline-link-macro-rx"></block>.</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">시작하십시오</block>
@@ -324,7 +293,6 @@
   <block id="ee68e5b99222bbc29a480fcb0d1d6ee2" category="sidebar">필수 구성 요소</block>
   <block id="1da54223aacfae99a4874c0e691e9686" category="sidebar">BlueXP에서 서비스에 로그인합니다</block>
   <block id="1fe917b01f9a3f87fa2d7d3b7643fac1" category="sidebar">FAQ 를 참조하십시오</block>
-  <block id="bd061bc82da085cfa0af1ce1250210fe" category="sidebar">운영 복구 서비스 사용</block>
   <block id="c51a2c08d5209aad63f43c6526df187d" category="sidebar">보안 문제를 검토하고 해결합니다</block>
   <block id="55ecbcc86c1df8e0bbccc58434b65675" category="sidebar">문제를 자동으로 해결합니다</block>
   <block id="c9705b7c773d6a1ccecd7fb434fd094c" category="sidebar">Ansible 플레이북을 사용하여 문제 해결</block>
@@ -338,7 +306,6 @@
   <block id="c6c64cb38e97edda8ffa90f94528ff44" category="sidebar">BlueXP에서 서비스에 액세스합니다</block>
   <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">지식 및 지원</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">릴리스 정보</block>
-  <block id="d83db14f4cdc7c07f256b9b25bf14272" category="paragraph">BlueXP 운영 복구 서비스에서 * Remediate * 옵션을 선택한 경우 서비스가 문제 해결을 구현할 수 있습니다.</block>
   <block id="512d7187e11e6b2bd094632645a845b7" category="paragraph">에 대한 자세한 내용은 BlueXP 설명서를 참조하십시오<block ref="3be6fdd970ee3d2f07a043a29363ec05" category="inline-link-rx"></block>.</block>
   <block id="f164503793033fa06dba0ecdec3a5be1" category="paragraph">에 대한 자세한 내용은 BlueXP 설명서를 참조하십시오<block ref="20b708c671b065a2812094c911bf9a2e" category="inline-link-rx"></block>.</block>
   <block id="641d85e3392af705f9d34f2fa609a57b" category="paragraph">BlueXP를 참조하십시오<block ref="1295fbde6ecbfd0b1a74b2320f542e01" category="inline-link-rx"></block>.</block>
@@ -346,4 +313,40 @@
   <block id="137f465ff17e307c6d821b8f1d37049b" category="paragraph">BlueXP에 로그인하려면 NetApp Support 사이트 자격 증명을 사용하거나 이메일 및 암호를 사용하여 NetApp 클라우드 로그인에 등록할 수 있습니다.<block ref="83012c4a40bb3321733997744c83daa9" category="inline-link-rx"></block>.</block>
   <block id="942a771213d3b59ba27960f61d97b1ac" category="inline-link"><block ref="942a771213d3b59ba27960f61d97b1ac" category="inline-link-rx"></block></block>
   <block id="8bfe71eed258e3f01fe6e2704d8b996c" category="paragraph">URL의 경우 브라우저에 다음을 입력합니다.<block ref="6db7b50bf17b27cbede9f07c4fbc973e" category="inline-link-rx"></block></block>
+  <block id="28ec4fd398ec8aee5e3f375cd2625519" category="summary">운영 복구는 서비스와 솔루션의 상태, 가동 시간 및 성능을 유지하기 위해 경고와 이벤트를 분석하는 데 도움이 되는 서비스입니다. 운영 복원력 서비스와 IT 운영 리스크 수정 자동화 제안을 사용하면 운영 중단이나 장애가 발생하기 전에 권장되는 해결 방법을 구현할 수 있습니다.</block>
+  <block id="40742dd64edea269092e2b0b612101fe" category="summary">환경, 네트워크 액세스, 로그인 및 웹 브라우저에 대한 지원을 확인하여 BlueXP 운영 복구 서비스를 시작하십시오.</block>
+  <block id="5893f4c01eddd46fe51d24d7846dbf42" category="paragraph">운영 복구 서비스를 사용하려면 환경이 모든 요구 사항을 충족하는지 확인해야 합니다.</block>
+  <block id="71758daba0a46e3d46a7ebca6c89cc94" category="list-text">요구 사항은 아니지만 BlueXP 커넥터가 설치되어 있고 활성화되어 있고 ONTAP 시스템이 검색되면 도움이 됩니다. 그렇지 않은 경우, 운영 복구 서비스를 통해 이러한 프로세스를 안내받을 수 있습니다.</block>
+  <block id="c5e325373de16202bbba45fab31f6350" category="doc">운영 복구 서비스 설정</block>
+  <block id="143752699168c365fbf298ed2e1e3620" category="paragraph">운영 복구 서비스를 사용하기 위한 첫 번째 단계는 사용자 환경의 모니터링 도구에서 데이터를 제공하는 것입니다.</block>
+  <block id="38be59bd2061124d4a321a548ce7ca38" category="paragraph">BlueXP에서 직접 커넥터를 생성하고 해당 커넥터를 운영 복구 서비스에 사용할 수 있습니다. 또는 클러스터를 살펴보는 프로세스를 시작하고 프로세스 도중에 Connector를 배포할 수 있습니다.</block>
+  <block id="6000632e15fbf49899a72b1afe33e0ed" category="summary">운영 복원력 은 서비스 및 솔루션의 상태, 가동 시간, 성능을 유지하기 위해 경고 및 이벤트를 분석하는 데 도움이 되는 서비스입니다. 운영 복구 서비스 및 자동화된 IT 운영 개선 제안을 사용하여 가동 중단 또는 장애가 발생하기 전에 권장되는 해결 방법을 구현할 수 있습니다.</block>
+  <block id="eee45265361093339d7654a8dc6c5682" category="doc">운영 복구 서비스에 대해 자세히 알아보십시오</block>
+  <block id="f9534b9234d404c812291d7f2144f0d5" category="paragraph">운영 복구는 서비스와 솔루션의 상태, 가동 시간 및 성능을 유지하기 위해 경고와 이벤트를 분석하는 데 도움이 되는 서비스입니다. 운영 복원력 서비스와 IT 운영 리스크 수정 자동화 제안을 사용하면 운영 중단이나 장애가 발생하기 전에 권장되는 해결 방법을 구현할 수 있습니다.</block>
+  <block id="38c52928b11db521d3490652a91a0126" category="paragraph">이 BlueXP 서비스는 NetApp 디지털 자문(이전의 Active IQ) 지침에 따라 NetApp ONTAP 클러스터에 대한 수정 사항을 구현합니다. 이 서비스는 펌웨어 및 소프트웨어 구성 문제와 같은 보안 취약점을 감지합니다.</block>
+  <block id="7989549020ecda7466687ba0003a7c3c" category="section-title">운영 복구 서비스 사용의 이점</block>
+  <block id="81f69e875e08770a35c9cc72ae30cfb6" category="paragraph">운영 복구 서비스는 다음과 같은 이점을 제공합니다.</block>
+  <block id="bd9223d646fd54dbdf3b7d02884434c3" category="section-title">운영 복구 서비스로 수행할 수 있는 작업</block>
+  <block id="8946ce3007f7028cd8e61a280f8aeef8" category="paragraph">운영 복구 서비스를 사용하면 다음과 같은 목표를 달성할 수 있습니다.</block>
+  <block id="2211f87bf51b6ffe261b7b579b653be2" category="paragraph">이 운영 복원력 서비스는 사내 NetApp ONTAP 클러스터를 분석합니다.</block>
+  <block id="05b6fc411359072e39963417d3717fb5" category="summary">BlueXP의 서비스에 액세스하여 운영 복구 서비스를 시작하십시오.</block>
+  <block id="fd4a5b6fde0da08fa53b250835acae31" category="doc">BlueXP의 운영 복구 서비스에 액세스합니다</block>
+  <block id="4a92b7c1cf6429306da39555bcc26695" category="paragraph">NetApp BlueXP에 로그인하여 운영 복원력 서비스를 이용할 수 있습니다.</block>
+  <block id="92100e0b26cf551afa26cc89d4914d49" category="summary">NetApp BlueXP 운영 복원력 서비스를 몇 가지 단계로 시작하십시오.</block>
+  <block id="eee24bf77531bff771aeb058c9e172f7" category="doc">운영 복구 서비스를 신속하게 시작할 수 있습니다</block>
+  <block id="1aa4a8920a804919ca13b046e0e8293d" category="paragraph">NetApp BlueXP 운영 복원력 서비스를 시작하는 데 필요한 단계에 대한 개요를 제공합니다. 각 단계의 링크를 클릭하면 자세한 내용을 제공하는 페이지로 이동합니다.</block>
+  <block id="6fa341bb06fb8b0742ee2ff04464fc33" category="paragraph-title"><block ref="54f425ce8d89f4ed6b8a546561af5d60" category="inline-image-macro-rx" type="image"></block> 운영 복구 서비스 설정</block>
+  <block id="68e11e4581d2273aca596d14309a121b" category="doc">운영 복구 서비스에 대한 질문과 대답</block>
+  <block id="0e034193ec5332d2eaba537464996f8a" category="section-title">운영 복구 서비스에 대한 액세스</block>
+  <block id="f5af837941911e97d098417ff6c88e26" category="paragraph">* BlueXP 운영 복구 URL은 무엇입니까? *</block>
+  <block id="96132a91ebcd8843576c5d3b88b25986" category="paragraph">* 운영 복구 서비스를 사용하려면 라이센스가 필요합니까? *</block>
+  <block id="0b8542a5ea2780ed861f8e359d3aa42c" category="summary">운영 복구 서비스의 새로운 기능에 대해 알아보십시오.</block>
+  <block id="d3d5bae1dc5637cc2d16caf23d0426d2" category="paragraph">새로운 운영 복구 서비스 및 자동화된 IT 운영 위험 수정 제안을 사용하여 가동 중단 또는 장애가 발생하기 전에 권장되는 해결 방법을 구현할 수 있습니다.</block>
+  <block id="ae74e3db3615f676968300b7cc6e8ae1" category="paragraph">운영 복원력 은 서비스 및 솔루션의 상태, 가동 시간, 성능을 유지하기 위해 경고 및 이벤트를 분석하는 데 도움이 되는 서비스입니다.</block>
+  <block id="e1287a8e494def55e5ee82def5682265" category="summary">NetApp BlueXP 운영 복원력 서비스는 AI를 사용하여 보안 위험을 결정합니다.</block>
+  <block id="ba564dc3a6bd98167511b58b61a61a70" category="paragraph">운영 복구 서비스를 사용하면 펌웨어 문제와 관련된 보안 위험을 검토하고 해결 방법을 구현할 수 있습니다.</block>
+  <block id="c73a660d4a0630849f0ae902550fada8" category="paragraph">운영 복구 서비스를 사용하면 다음과 같은 목표를 달성할 수 있습니다.</block>
+  <block id="822e3a5523be56be4343224274f22c3b" category="paragraph">BlueXP 운영 복구 서비스에서 * Remediate * 옵션을 선택한 경우 서비스가 문제 해결을 구현할 수 있습니다.</block>
+  <block id="6d04364204b362ee365b97c4ec08a1d8" category="sidebar">운영 복원력 은 서비스 및 솔루션의 상태, 가동 시간, 성능을 유지하기 위해 경고 및 이벤트를 분석하는 데 도움이 되는 서비스입니다. 운영 복원력 서비스와 IT 운영 리스크 수정 자동화 제안을 사용하면 운영 중단이나 장애가 발생하기 전에 권장되는 해결 방법을 구현할 수 있습니다.</block>
+  <block id="21d892a35096adc6364a2a04c3d6a011" category="sidebar">운영 복구 서비스를 사용합니다</block>
 </blocks>

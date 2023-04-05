@@ -1,6 +1,6 @@
 ---
 section: use
-title: 운영 복구 서비스 사용
+title: 운영 복구 서비스를 사용합니다
 entries:
 - title: 보안 문제를 검토하고 해결합니다
   url: "/use/remediate-overview.html"

@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: get-started/prerequisites.html 
 keywords: what are bluexp operational resiliency requirements, economic efficiency prerequisites 
-summary: 사용자 환경, 네트워크 액세스, 로그인 및 웹 브라우저에 대한 지원을 확인하여 BlueXP 운영 복원성을 시작하십시오. 
+summary: 환경, 네트워크 액세스, 로그인 및 웹 브라우저에 대한 지원을 확인하여 BlueXP 운영 복구 서비스를 시작하십시오. 
 ---
 = 운영 복구 사전 요구 사항
 :hardbreaks:
