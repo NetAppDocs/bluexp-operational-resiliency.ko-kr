@@ -2,15 +2,15 @@
 section: get-started
 title: 시작하십시오
 entries:
-- title: 운영 복구 서비스에 대해 자세히 알아보십시오
+- title: BlueXP 운영 복원성에 대해 알아보십시오
   url: "/get-started/intro.html"
 - title: 필수 구성 요소
   url: "/get-started/prerequisites.html"
 - title: 빠른 시작
   url: "/get-started/quick-start.html"
-- title: 운영 복구 서비스 설정
+- title: BlueXP 운영 복원력을 설정합니다
   url: "/get-started/setup.html"
-- title: BlueXP에서 서비스에 액세스합니다
+- title: BlueXP 운영 복구 기능 액세스
   url: "/get-started/login.html"
 - title: FAQ 를 참조하십시오
   url: "/get-started/faq.html"
