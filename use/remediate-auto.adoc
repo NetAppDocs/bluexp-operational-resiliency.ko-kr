@@ -25,11 +25,11 @@ BlueXP 운영 복원에서 * Remediate * 옵션을 선택한 경우 서비스를
 +
 ** 커넥터가 없거나 아직 활성화되지 않은 경우 서비스에 커넥터 만들기 페이지가 표시됩니다. 여기에서 Connector를 만들 수 있습니다. Connector가 존재하지만 활성화되지 않은 경우 클라우드 공급자 서비스에서 활성화해야 합니다.
 +
-에 대한 자세한 내용은 BlueXP 설명서를 참조하십시오 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["커넥터 작성 방법"^].
+에 대한 자세한 내용은 BlueXP 설명서를 참조하십시오 https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["커넥터 작성 방법"^].
 
 ** 클러스터가 없는 경우 서비스를 통해 클러스터를 식별할 수 있는 페이지가 표시됩니다.
 +
-에 대한 자세한 내용은 BlueXP 설명서를 참조하십시오 https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html["클러스터를 식별하는 방법"^].
+에 대한 자세한 내용은 BlueXP 설명서를 참조하십시오 https://docs.netapp.com/us-en/bluexp-setup-admin/index.html["클러스터를 식별하는 방법"^].
 
 
 
