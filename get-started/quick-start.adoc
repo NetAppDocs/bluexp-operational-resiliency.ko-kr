@@ -16,19 +16,19 @@ summary: NetApp BlueXP 운영 복원력 서비스를 몇 가지 단계로 시작
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-1.png["1개"] 사전 요구 사항을 검토합니다
 [role="quick-margin-para"]
-link:../get-started/prerequisites.html["환경이 이러한 요구 사항을 충족하는지 확인합니다"^].
+link:../get-started/prerequisites.html["환경이 이러한 요구 사항을 충족하는지 확인합니다"].
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-2.png["2개"] 운영 복구 서비스 설정
 [role="quick-margin-para"]
-link:../get-started/setup.html["서비스 설정 단계를 완료합니다"^].
+link:../get-started/setup.html["서비스 설정 단계를 완료합니다"].
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-3.png["세 가지"] 다음 단계
 [role="quick-margin-para"]
 서비스 설정을 마치면 다음 작업을 수행할 수 있습니다.
 
 [role="quick-margin-list"]
-* link:../use/remediate-overview.html["보안 위험 문제를 검토하고 해결합니다"^].
-* link:../use/remediate-auto.html["자동으로 해결합니다"^].
-* link:../use/remediate-ansible.html["Ansible 플레이북을 사용하여 해결"^].
-* link:../use/remediate-status.html["위험 개선 상태를 결정합니다"^].
+* link:../use/remediate-overview.html["보안 위험 문제를 검토하고 해결합니다"].
+* link:../use/remediate-auto.html["자동으로 해결합니다"].
+* link:../use/remediate-ansible.html["Ansible 플레이북을 사용하여 해결"].
+* link:../use/remediate-status.html["위험 개선 상태를 결정합니다"].
 
