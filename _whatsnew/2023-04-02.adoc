@@ -1,22 +1,6 @@
----
-sidebar: sidebar 
-permalink: release-notes/whats-new.html 
-keywords: operational resiliency faq, operational resiliency frequently asked questions, firmware risks 
-summary: BlueXP 운영 복원력의 새로운 기능에 대해 알아보십시오. 
----
-= 새로운 기능
-:hardbreaks:
+= BlueXP  운영 복원력 서비스
 :allow-uri-read: 
-:icons: font
-:imagesdir: ../media/
 
-
-[role="lead"]
-BlueXP 운영 복원력의 새로운 기능에 대해 알아보십시오.
-
-
-
-== 2023년 4월 2일
 
 
 
