@@ -14,7 +14,7 @@ summary: BlueXP 운영 복원력은 서비스 및 솔루션의 상태, 가동 �
 [role="lead"]
 BlueXP 운영 복원력은 경고와 이벤트를 분석하여 서비스 및 솔루션의 상태, 가동 시간 및 성능을 유지하는 데 도움이 되는 서비스입니다. 운영 복원력 서비스와 IT 운영 리스크 수정 자동화 제안을 사용하면 운영 중단이나 장애가 발생하기 전에 권장되는 해결 방법을 구현할 수 있습니다.
 
-이 BlueXP 서비스는 Active IQ(BlueXP Digital Advisor) 지침에 따라 NetApp ONTAP 클러스터에 대한 수정 사항을 구현합니다. 이 서비스는 펌웨어 및 소프트웨어 구성 문제와 같은 보안 취약점을 감지합니다.
+이 BlueXP  서비스는 Active IQ Digital Advisor(Digital Advisor라고도 함) 지침을 기반으로 NetApp ONTAP 클러스터에 대한 수정 사항을 구현합니다. 이 서비스는 펌웨어 및 소프트웨어 구성 문제와 같은 보안 취약점을 감지합니다.
 
 
 

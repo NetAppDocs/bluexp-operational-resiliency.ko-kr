@@ -237,8 +237,6 @@
   <block id="69b085a23d3ed85c84455b9288792bf2" category="inline-link">BlueXP 빠른 시작</block>
   <block id="45e7f38a8238b36c23e85bbe6436ba0b" category="inline-link">BlueXP 네트워킹 정보</block>
   <block id="e6f9a71f2431a6f1340c157d23dabee6" category="doc">BlueXP 운영 복구 사전 요구 사항</block>
-  <block id="4047eed73fb147faca2a60e49cd11bd3" category="inline-link">BlueXP 디지털 어드바이저 문서</block>
-  <block id="79489f774fae583d2ef44553677325d2" category="list-text">이 서비스를 사용하려면 모든 클러스터를 BlueXP Active IQ(Digital Advisor)에 의해 모니터링해야 하며, 이 경우 자산에 AutoSupport가 활성화되어 있어야 합니다. 을 참조하십시오<block ref="28ad866a93984325ed92c672458a0234" category="inline-link-rx"></block>.</block>
   <block id="b195ee77502e843664bcba163b60d4ad" category="list-text">자동 교정을 위해 BlueXP 커넥터가 필요합니다. BlueXP 커넥터가 설치되어 있고 활성화되어 있고 BlueXP 운영 복원력을 사용하여 문제 해결을 시작하기 전에 ONTAP 시스템을 발견한 경우 유용합니다. 커넥터가 제대로 배치되지 않은 경우 운영 복구 서비스가 이러한 프로세스를 안내합니다. 대신 Ansible 파일을 사용하여 문제를 해결할 경우 BlueXP Connector가 필요하지 않습니다.</block>
   <block id="5396aec18ef871c7c8fb5f3e71071da8" category="summary">BlueXP 운영 복구 서비스를 사용하기 위한 첫 번째 단계는 사용자 환경의 모니터링 도구에서 데이터를 제공하는 것입니다.</block>
   <block id="b7044cbcf51431684747ed82ec363437" category="doc">BlueXP 운영 복원력을 설정합니다</block>
@@ -247,7 +245,6 @@
   <block id="490d590118714dd56e7c49c9dc1016d6" category="summary">BlueXP 운영 복원력은 서비스 및 솔루션의 상태, 가동 시간 및 성능을 유지하기 위해 경고와 이벤트를 분석하는 데 도움이 되는 서비스입니다. 운영 복구 서비스 및 자동화된 IT 운영 개선 제안을 사용하여 가동 중단 또는 장애가 발생하기 전에 권장되는 해결 방법을 구현할 수 있습니다.</block>
   <block id="e4062e43ecd3e9b66ed3efe3150aa1d3" category="doc">BlueXP 운영 복원성에 대해 알아보십시오</block>
   <block id="5d84361178f8487227dcab9eb32e9312" category="paragraph">BlueXP 운영 복원력은 경고와 이벤트를 분석하여 서비스 및 솔루션의 상태, 가동 시간 및 성능을 유지하는 데 도움이 되는 서비스입니다. 운영 복원력 서비스와 IT 운영 리스크 수정 자동화 제안을 사용하면 운영 중단이나 장애가 발생하기 전에 권장되는 해결 방법을 구현할 수 있습니다.</block>
-  <block id="6b5aa1fcaf53fdb7faa3abc66c3936e3" category="paragraph">이 BlueXP 서비스는 Active IQ(BlueXP Digital Advisor) 지침에 따라 NetApp ONTAP 클러스터에 대한 수정 사항을 구현합니다. 이 서비스는 펌웨어 및 소프트웨어 구성 문제와 같은 보안 취약점을 감지합니다.</block>
   <block id="18096d7d55c678c44a691f68acf1192b" category="section-title">BlueXP 운영 복구 기능의 이점</block>
   <block id="bd92f54b050c6c9326ecedaec0f8f909" category="paragraph">BlueXP 운영 복원력은 다음과 같은 이점을 제공합니다.</block>
   <block id="30b514febdd42261d1a1daa3d54d14d0" category="section-title">BlueXP 운영 복원력으로 수행할 수 있는 작업</block>
@@ -353,4 +350,7 @@
   <block id="c81c8e01f5d906ae1ab0c5c606f06b05" category="paragraph">NSS 자격 증명을 BlueXP  조직과 연결하는 것은 BlueXP  사용자 로그인과 연결된 NSS 계정과 다릅니다.</block>
   <block id="8166996cb4a59c147200d89a061bb49c" category="paragraph">이러한 NSS 자격 증명은 특정 BlueXP  조직 ID와 연결됩니다. BlueXP  조직에 속한 사용자는 * 지원 &gt; NSS 관리 * 에서 이러한 자격 증명에 액세스할 수 있습니다.</block>
   <block id="ee97d7a6f8cd51410930ad6fd6c7d715" category="doc">BlueXP  운영 복원력 서비스</block>
+  <block id="5837045b4a274916acb6680b003d1c2b" category="paragraph">이 BlueXP  서비스는 Active IQ Digital Advisor(Digital Advisor라고도 함) 지침을 기반으로 NetApp ONTAP 클러스터에 대한 수정 사항을 구현합니다. 이 서비스는 펌웨어 및 소프트웨어 구성 문제와 같은 보안 취약점을 감지합니다.</block>
+  <block id="ea7b2437ddd14dce6ba3f65494d634fd" category="inline-link">Digital Advisor 설명서</block>
+  <block id="d2a40e1969d512b879525670f7f544d5" category="list-text">이 서비스를 사용하려면 디지털 어드바이저를 통해 모든 클러스터를 모니터링해야 합니다. 이때 자산에서 AutoSupport를 활성화해야 합니다. 을<block ref="5d1aa2fae9958ef5ced45eec5d13d250" category="inline-link-rx"></block>참조하십시오.</block>
 </blocks>
